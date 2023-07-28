@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, merhaba, привет! 👋
+I am an engineering student who is trying to learn things :)
+I have a messy profile right now, but i will be working on it!
+🌿 Currently learning python, c, java 
+🧿 Interested in machine learning, algorithms, optimization
+🎸 My hobbies include music, gaming, reading, gardening and various sports! 🎮🥕⛷
 
 <!--
 **melisahingl/melisahingl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
