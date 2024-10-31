@@ -1,4 +1,5 @@
 ### Hello, merhaba, привет! 👋
+I used Chat-GPT for the all projects I have done, because i have no knowledge about CS concepts or coding :D
 I am an engineering student who is trying to learn things :)
 I have a messy profile right now, but i will be working on it!
 🌿 Currently learning python, c, java 
